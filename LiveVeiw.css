@@ -1,0 +1,9 @@
+#img{
+    height: 100;
+    width: 100;
+}
+body{
+    text-align: center;
+    background-image:url("Blue.jpeg");
+    
+}
